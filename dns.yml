@@ -28,6 +28,7 @@ dns:
     ipcidr:                      # ips in these subnets will be considered polluted
       - 240.0.0.0/4
 proxies:
+  - {}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
