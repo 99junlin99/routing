@@ -44,3 +44,7 @@ DOMAIN-SUFFIX,pvx.autohome.com.cn
 DOMAIN-SUFFIX,rd.autohome.com.cn
 DOMAIN-SUFFIX,rdx.autohome.com.cn
 DOMAIN-SUFFIX,stats.autohome.com.cn
+
+#sublime
+DOMAIN,www.sublimetext.com
+DOMAIN,license.sublimehq.com
